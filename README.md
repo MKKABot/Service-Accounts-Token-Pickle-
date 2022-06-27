@@ -53,7 +53,3 @@ python3 generate_drive_token.py
 
     ✅မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး သိမ်းပါ✅
     
-# ဆက်သွယ်ရန်
-[Bot Tutorials Channel](https://t.me/BotTutorialsMM)
-
-[ContactMe](https://t.me/Dr007bot)
